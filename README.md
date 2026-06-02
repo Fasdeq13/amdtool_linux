@@ -104,5 +104,4 @@ cpack -G DEB   # Compiles native Debian/Ubuntu deployment layer
 cpack -G RPM   # Compiles native Fedora/RedHat deployment layer
 ```
 
----
-*Developed by [Fasdeq13](https://github.com/Fasdeq13). Distributed under the terms of the MIT License.*
+
