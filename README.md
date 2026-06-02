@@ -28,7 +28,7 @@
 
 Для детального разбора архитектуры, инструкций по развертыванию на специфических слоях ядра, структур API и чертежей компиляции перейдите к основной базе знаний проекта:
 
-👉 **[Перейти к официальной Wiki проекта и руководству по функциям](https://github.com)**
+👉 **[Перейти к официальной Wiki проекта и руководству по функциям](https://github.com/Fasdeq13/amdtool_linux/wiki)**
 
 ---
 
@@ -80,7 +80,7 @@ The application core architecture utilizes **C++17** alongside the **Qt6 Widgets
 
 For architectural breakdowns, precise deployment instructions across specific kernel layers, API structures, and compilation blueprints, proceed to the primary project knowledge base:
 
-👉 **[View the Official Project Wiki & Feature Manual](https://github.com)**
+👉 **[View the Official Project Wiki & Feature Manual](https://github.com/Fasdeq13/amdtool_linux/wiki)**
 
 ---
 
