@@ -11,7 +11,7 @@
 
 ### Обзор инфраструктуры проекта
 
-`amdtool_linux` — это высокопроизводительная графическая панель управления с открытым исходным кодом, разработанная для видеокарт AMD Radeon в средах Linux. Основная цель проекта — предоставить точную пиксель-в-пиксель копию интерфейса официальной утилиты **AMD Software: Adrenalin Edition** (эксклюзивной для Windows) для open-source экосистемы.
+`amdtool_linux` — это высокопроизводительная графическая панель управления с открытым исходным кодом, разработанная для видеокарт AMD Radeon в средах Linux. Основная цель проекта — предоставить копию интерфейса официальной утилиты **AMD Software: Adrenalin Edition** (эксклюзивной для Windows) для open-source экосистемы.
 
 Архитектура ядра приложения использует стандарт **C++17** совместно с фреймворком **Qt6 Widgets**, что гарантирует минимальные накладные расходы и отсутствие лишних зависимостей в рантайме.
 
@@ -63,7 +63,7 @@ cpack -G RPM   # Сборка пакета для Fedora/RedHat
 
 ### Project Infrastructure Overview
 
-`amdtool_linux` is an open-source, high-performance graphical control panel suite designed natively for AMD Radeon hardware running under Linux desktop environments. The primary goal of this project is to provide a pixel-perfect, feature-rich interface clone of the official Windows-exclusive **AMD Software: Adrenalin Edition**, tailored entirely for the open-source ecosystem.
+`amdtool_linux` is an open-source, high-performance graphical control panel suite designed natively for AMD Radeon hardware running under Linux desktop environments. The primary goal of this project, feature-rich interface clone of the official Windows-exclusive **AMD Software: Adrenalin Edition**, tailored entirely for the open-source ecosystem.
 
 The application core architecture utilizes **C++17** alongside the **Qt6 Widgets** engine framework to guarantee minimal runtime overhead with zero external garbage dependencies.
 
