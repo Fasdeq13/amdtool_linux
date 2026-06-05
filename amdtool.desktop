@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AMD Software: Adrenalin Edition
+Comment=AMD Software Adrenalin Linux UI Tool
+Exec=/usr/bin/amdtool
+Icon=amdtool
+Terminal=false
+Categories=System;Settings;
